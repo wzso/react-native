@@ -8,3 +8,7 @@ React Native Footprints of Mine
 ## 2. ECMAScript 6 Primer
 
 找了阮一峰的开源书[《ECMAScript 6 入门》](http://es6.ruanyifeng.com/)。一章一章读。[示例代码](https://github.com/zssr/React-Native-Notes/tree/master/code-snippets/es6-primer)注释里附上简要书摘。
+
+## 3. TypeScript
+
+[手册指南](https://www.tslang.cn/docs/handbook/basic-types.html)
