@@ -16,3 +16,5 @@ React Native Footprints of Mine
 ## 4. Redux
 
 [react-guide](https://github.com/react-guide) 上的一篇快速上手[教程](https://github.com/react-guide/redux-tutorial-cn/blob/master/00_introduction.js)
+
+PS: 本菜鸟在学习 [Redux 文档](redux.js.org)时[摘抄的代码](https://github.com/zssr/redux-notes)
