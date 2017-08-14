@@ -9,11 +9,15 @@ React Native Footprints of Mine
 
 找了阮一峰的开源书[《ECMAScript 6 入门》](http://es6.ruanyifeng.com/)。一章一章读。[示例代码](https://github.com/zssr/React-Native-Notes/tree/master/code-snippets/es6-primer)注释里附上简要书摘。
 
-## 3. TypeScript
+## 3. React
+
+还是需要一点 React 的知识。前端同事借了本书给我：[React（第2版）：引领未来的用户界面开发框架](https://book.douban.com/subject/26918475/)。这本书清晰简洁，个人入门还不错。感谢同事！
+
+## 4. TypeScript
 
 [手册指南](https://www.tslang.cn/docs/handbook/basic-types.html)
 
-## 4. Redux
+## 5. Redux
 
 [react-guide](https://github.com/react-guide) 上的一篇快速上手[教程](https://github.com/react-guide/redux-tutorial-cn/blob/master/00_introduction.js)
 
