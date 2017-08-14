@@ -11,7 +11,7 @@ React Native Footprints of Mine
 
 ## 3. React
 
-还是需要一点 React 的知识。前端同事借了本书给我：[React（第2版）：引领未来的用户界面开发框架](https://book.douban.com/subject/26918475/)。这本书清晰简洁，个人入门还不错。感谢同事！
+还是需要一点 React 的知识。前端同事借了本书给我：[React（第2版）：引领未来的用户界面开发框架](https://book.douban.com/subject/26918475/)。这本书清晰简洁，个人感觉用来入门还不错。感谢同事！
 
 ## 4. TypeScript
 
